@@ -18,5 +18,5 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 2. A classe **Nokia** e **Iphone** devem ser classes filhas de Smartphone.
 3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+## Implementação by Matheus Rodrigues 💻
+Como solicitado em aula, implementei os atributos das classes respeitando o diagrama de classes, além disso, para testar o programa codifiquei um menu de interação que permite adicionar telefones (Iphones e Nokias) e selecionar um desses aparelhos para testar seus métodos e descartar o aparelho caso julgue necessário.
